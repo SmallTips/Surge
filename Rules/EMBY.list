@@ -9,12 +9,10 @@ DOMAIN,789.123456.al
 # > 纸片人
 DOMAIN,embyplus.org
 # > 舒服
-DOMAIN,jz.mcjoker.xyz,DIRECT // 直连线路
 DOMAIN,emby3.mcjoker.xyz
 # > Nyamedia
 DOMAIN,emby.bangumi.ca
 # > Magpie 喜鹊
-DOMAIN-SUFFIX,magpie.bond,DIRECT // 直连线路
 DOMAIN-KEYWORD,magpie
 # > Paul
 DOMAIN-KEYWORD,imetyou

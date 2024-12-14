@@ -11,6 +11,9 @@ DOMAIN,789.123456.al
 # > 纸片人
 DOMAIN,embyplus.org
 DOMAIN,gd.9521732.xyz //推流
+# > 终点站
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,trem.wtf
 # > 舒服
 DOMAIN,emby3.mcjoker.xyz
 # > Nyamedia
